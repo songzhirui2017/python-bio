@@ -35,7 +35,7 @@ print(cc)#由于开头是Q所以返回值为None。
 
 ```python
 #2.search
-#如果string中存在多个pattern子串，只返回第一个。
+#如果string中存在多个子串，只返回第一个。
 d=re.search(a,b)
 d.group()
 ```
