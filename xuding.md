@@ -1,3 +1,4 @@
+#this a practice for spline for ggplot2
 xdata1 <- read.csv('/home/ying/xuding1.csv',header = F)
 ndata1 <- na.omit(xdata1)
 xdata2 <- read.csv('/home/ying/xuding2.csv',header = F)
